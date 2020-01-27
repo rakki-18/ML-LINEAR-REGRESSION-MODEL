@@ -1,2 +1,2 @@
-# acm-fig-ml-project
+# acm-fig-ml-assignment
 a simple linear regression model
