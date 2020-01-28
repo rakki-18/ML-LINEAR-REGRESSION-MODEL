@@ -2,7 +2,7 @@ import pandas as pd
 import numpy as np
 import seaborn as sns
 import matplotlib.pyplot as plt
-df = pd.read_csv(C:\Users\Rakki\Downloads\Iris.csv)
+df = pd.read_csv(r'C:\Users\Rakki\Downloads\Iris.csv')
 printf(df.head(5))
 from sklearn.model_selection import train_test_split
 from sklearn.linear_model import LogisticRegression
